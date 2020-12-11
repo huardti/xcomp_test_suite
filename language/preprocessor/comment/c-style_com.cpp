@@ -9,4 +9,3 @@ lorem ipsum
 */
 
 code ... /* some comment */
-

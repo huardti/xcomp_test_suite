@@ -1,7 +1,7 @@
 #define a coucou
-
-
-#include "hash_if.cpp"
+a;
+a;
+#define a salut
 a;
 a;
 yo;
